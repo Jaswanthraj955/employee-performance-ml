@@ -85,4 +85,4 @@ https://jaswanthraj955-employee-performance-ml-app-6kco39.streamlit.app/
 
 ## 👤 Author
 
-Jaswanth Raj
+Nuthalapati Jaswanth Raj
